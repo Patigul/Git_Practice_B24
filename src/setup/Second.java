@@ -7,4 +7,10 @@ public class Second {
     public void m(String s){
 
     }
+
+    public void m(int a){
+
+    }
+
+
 }
