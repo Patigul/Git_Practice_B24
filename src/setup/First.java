@@ -21,5 +21,7 @@ public class First {
         //It`s just crazy
 
         //hahah
+
+        System.out.println("This is the end of the test");
     }
 }
